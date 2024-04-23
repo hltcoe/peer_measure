@@ -1,4 +1,4 @@
-# Probably of Equal Expected Rank
+# Probability of Equal Expected Rank
 
 This package is the Python implementation of the MLIR fairness measure 
 "Probability of Equal Expected Rank" using `ir_measures`. 
@@ -46,6 +46,6 @@ Please consider citing our paper if you use this measure.
 	title = {Language Fairness in Multilingual Information Retrieval},
 	booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) (Short Paper) (Accepted)},
 	year = {2024}, 
-    doi = {10.1145/3626772.3657943}
+	doi = {10.1145/3626772.3657943}
 }
 ```
